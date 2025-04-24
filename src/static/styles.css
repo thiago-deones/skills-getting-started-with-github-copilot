@@ -121,6 +121,24 @@ button:hover {
   background-color: #3949ab;
 }
 
+a {
+  color: #1a237e;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #3949ab;
+}
+
+.important-section {
+  border: 2px solid #1a237e;
+  padding: 25px;
+  background-color: #e3f2fd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
